@@ -250,7 +250,7 @@ Dependency bump
 
 ### Added
 
-- *(tests)* Add dupn, swapn and exhange tests ([#2343](https://github.com/bluealloy/revm/pull/2343))
+- *(tests)* Add dupn, swapn and exсhange tests ([#2343](https://github.com/bluealloy/revm/pull/2343))
 - support for system calls ([#2350](https://github.com/bluealloy/revm/pull/2350))
 
 ### Other
